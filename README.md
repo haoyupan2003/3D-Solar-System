@@ -47,10 +47,6 @@ MIT License - free to use and modify!
 ## 🤝 Contributions
 Got ideas? Open an issue or pull request on [GitHub](https://github.com/haoyupan2003/3D-Solar-System-Explorer/issues).
 
-## 🌟 Thanks
-- Three.js team
-- NASA for space inspo
-
 ---
 
 Built for fun and learning! 🚀
