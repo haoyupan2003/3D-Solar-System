@@ -1,6 +1,6 @@
 # 3D Solar System Explorer 🌍
 
-A simple, interactive 3D solar system built with Three.js. Explore planets, view orbits, and learn fun facts in your browser!
+A simple, interactive 3D solar system built with Three.js and gl-matrix.js. Explore planets, view orbits, and learn fun facts in your browser!
 
 ## ✨ Features
 - 3D view of the solar system
