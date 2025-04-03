@@ -1,0 +1,29 @@
+<!doctype html>
+<meta charset=utf-8>
+
+<title>3d Canvas</title>
+
+<link rel=stylesheet href=css/style.css>
+
+<div id="space-background"></div>
+<canvas id=canvas width=1024 height=1024></canvas>
+
+<div id=console></div>
+<div id=info></div>
+<div id=controls>
+	<div class=control>
+		<label for=speed>Speed</label>
+		<input type=range id=speed min="-10" value="1" max="10" step="1">
+	</div>
+	<div class=control>
+		<label for=rotationLock>Camera Rotation</label>
+		<select id=rotationLock>
+			<option value=galaxy>Galaxy</option>
+			<option value=orbit>Orbit</option>
+			<option value=surface>Surface</option>
+		</select>
+	</div>
+</div>
+
+<script src=js/gl-matrix.js></script>
+<script src=js/script.js id=script></script>
