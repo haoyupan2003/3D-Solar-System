@@ -45,7 +45,7 @@ A simple, interactive 3D solar system built with Three.js. Explore planets, view
 MIT License - free to use and modify!
 
 ## 🤝 Contributions
-Got ideas? Open an issue or pull request on [GitHub](https://github.com/YourUsername/3D-Solar-System-Explorer/issues).
+Got ideas? Open an issue or pull request on [GitHub](https://github.com/haoyupan2003/3D-Solar-System-Explorer/issues).
 
 ## 🌟 Thanks
 - Three.js team
