@@ -28,10 +28,10 @@ A simple, interactive 3D solar system built with Three.js. Explore planets, view
 - **Scroll**: Zoom
 - **Hover**: Pause & show planet names
 - **Click**: Show planet info
-- **ESC or X**: Close info panel
 
 ## 💻 Tech Stack
 - **Three.js**: 3D rendering
+- **gl-matrix.js**: 3D graphics
 - **WebGL**: Graphics power
 - **HTML/CSS/JS**: Web basics
 
